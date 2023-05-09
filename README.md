@@ -19,9 +19,32 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
+<html>
+<head>
+<title> Saveetha Engineering College</title>
+</head>
+<body bgcolor="cyan" text-"black">
+<h1 style-"text-align:center;">Saveetha Engineering College</h1>
+<hr width="px;" color="red">
+<ol type="A">
+<li>Agricultural Engineering</li>
+<li>Computer Science And Engineering</li>
+<li>Information Technology</li>
+<li>Data Science</li>
+<ul type-"disc">
+<li>Artificial Intelligence - Data Science</li>
+<li>Artificial Intelligence - Machine Learning</li>
+<li>Internet Of Things</li>
+</ul>
+<li>Electronics & Communication Engineering</li>
+<li>Electrical & Electronics Engineering</li>
+<li>Mechanical Engineering</li>
+</ol>
+</body>
+</html>
 
 ## OUTPUT
+![image](https://user-images.githubusercontent.com/132973883/236991003-feda0cbc-b272-41ec-9286-da1296d52bb8.png)
 
 
 ## RESULT
